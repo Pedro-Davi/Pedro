@@ -5,9 +5,11 @@
 
 <div>
   <a href="https://instagram.com/pedrodavi_05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>  <br>
+</div> 
+<div style="display: inline_block"> <br>
 <img  align="center" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
+ 
+ </div> 
 
 
 
